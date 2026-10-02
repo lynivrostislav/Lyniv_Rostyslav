@@ -1,0 +1,3 @@
+GitHub project
+Author: Lyniv Rostyslav
+This file was added for the second commit.
